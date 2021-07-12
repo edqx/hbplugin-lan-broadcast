@@ -9,7 +9,6 @@
   },
   "devDependencies": {
     "@skeldjs/hindenburg": "link:../..",
-    "@types/ws": "^7.4.5",
     "typescript": "^4.3.5"
   },
   "files": [
